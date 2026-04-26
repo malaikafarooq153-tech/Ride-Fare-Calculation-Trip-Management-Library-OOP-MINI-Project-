@@ -1,0 +1,2 @@
+# Ride-Fare-Calculation-Trip-Management-Library-OOP-MINI-Project-
+Ride Fare Calculation &amp; Trip Management Library is a C++ OOP project that built around a Ride class that stores rider name, distance, rate, and calculates ride fares using distance and rate per km. It demonstrates function overloading, object copying, and operator overloading (+, -, &lt;, ==) along with stream output (&lt;&lt;) for displaying ride details.
