@@ -21,6 +21,7 @@ public:
     void setRide() //function overloading 1
     {
         cout << "Enter rider name: ";
+        cin.ignore();
         getline(cin, riderName);
         cout << "Enter distance (km): ";
         cin >> distance;
